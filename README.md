@@ -1,3 +1,5 @@
+[![Build and test of Java Project](https://github.com/ETSISI-EMS/ems2024-lab-1-2-ci-jenkins-peachgoslin162/actions/workflows/main.yml/badge.svg?branch=main)](https://github.com/ETSISI-EMS/ems2024-lab-1-2-ci-jenkins-peachgoslin162/actions/workflows/main.yml)
+
 # Pipeline-jenkins-java
 
 Repositorio para el laboratorio de CI con Jenkins
